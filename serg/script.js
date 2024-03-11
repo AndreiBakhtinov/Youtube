@@ -1,1 +1,3 @@
-const value = 'Hello World'
+const value = 'Hello World';
+
+('Fixed Mistakes');
